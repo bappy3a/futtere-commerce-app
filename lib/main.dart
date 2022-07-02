@@ -1,7 +1,7 @@
 import 'package:first_app/pages/home_page.dart';
 import 'package:first_app/pages/login_page.dart';
-import 'package:first_app/pages/utils/route.dart';
-import 'package:first_app/pages/widgets/themes.dart';
+import 'package:first_app/utils/route.dart';
+import 'package:first_app/widgets/themes.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
